@@ -32,7 +32,7 @@ Building is similar to other containers:
 
 And to run the container
 
-    docker run --net=host -p 5432:5432 adv-db/postgres
+    docker run --net=host -p 5432:5432 -e POSTGRES_PASSWORD=password adv-db/postgres
 
 Assuming that you have built the client, we can get a psql shell by running the
 following commands
