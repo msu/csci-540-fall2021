@@ -89,8 +89,8 @@ in class.
 
 | Date  | Description                                   | Assigned                          | Due                                   | Recommended Reading   | Video                                                             |
 |-------|-----------------------------------------------|-----------------------------------|---------------------------------------|-----------------------|-------------------------------------------------------------------|
-| 08/25 | Intro                                         |                                   |                                       |                       | [1](https://montana.box.com/s/15qg7x5ciz7hmdc43ewcewkcjhihoqfz)   |
-| 08/27 | Intro/System Setup                            |                                   |                                       |                       |                                                                   |
+| 08/25 | [Intro](./README.md)                          |                                   |                                       |                       | [1](https://montana.box.com/s/15qg7x5ciz7hmdc43ewcewkcjhihoqfz)   |
+| 08/27 | [Intro/System Setup](./env/README.md)         |                                   |                                       |                       |                                                                   |
 |       |                                               |                                   |                                       |                       |                                                                   |
 | 08/30 | Relational                                    |                                   |                                       |                       |                                                                   |
 
