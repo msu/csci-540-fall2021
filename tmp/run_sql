@@ -1,0 +1,1 @@
+PGPASSWORD=pw psql -f lecture.sql -h pgdb -U postgres postgres
