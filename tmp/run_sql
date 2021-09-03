@@ -1,1 +1,1 @@
-PGPASSWORD=pw psql -f lecture.sql -h pgdb -U postgres postgres
+PGPASSWORD=<your_pg_password> psql -f <your_sql_filename>.sql -h pgdb -U postgres postgres

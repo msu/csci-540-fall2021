@@ -7,7 +7,7 @@ services:
     ports:
       - "5432:5432"
     environment:
-      - POSTGRES_PASSWORD=pw
+      - POSTGRES_PASSWORD=<your_pg_password>
 
   client:
     depends_on:
