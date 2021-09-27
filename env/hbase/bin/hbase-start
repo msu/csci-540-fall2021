@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+docker run --rm -d -p 8080:8080 \
+    --volume "${PWD}/home:/mnt" \
+    --name myhbase \
+    adv-db/hbase
