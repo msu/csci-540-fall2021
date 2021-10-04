@@ -49,7 +49,7 @@ Optional and highly recommended:
 
 * [Database System
   Concepts](https://www.amazon.com/Database-System-Concepts-Abraham-Silberschatz-ebook/dp/B07PPHYQGV)
-  by Abraham Silberschatz, Henry F. Korth and S. Sudarshan
+  by Abraham Silberschatz, Henry F. Korth and S. Sudarshan (DBSC below)
 * [Seven Databases in Seven Weeks: A Guide to Modern Databases and the NoSQL
   Movement](https://www.amazon.com/Seven-Databases-Weeks-Modern-Movement/dp/1680502530)
   by Eric Redmond and Jim R. Wilson (7DB in reading below) (DO NOT USE 1st
@@ -92,41 +92,41 @@ in class.
 | 08/25 | [Intro](./README.md)                          |                                   |                                       |                       | [1](https://montana.box.com/s/15qg7x5ciz7hmdc43ewcewkcjhihoqfz)   |
 | 08/27 | [Intro/System Setup](./env/README.md)         |                                   |                                       |                       |                                                                   |
 |       |                                               |                                   |                                       |                       |                                                                   |
-| 08/30 | [Relational 1](./notes/2021-08-30.md)         |                                   |                                       |                       | [1](https://montana.box.com/s/kdfjc3yegab7g790snvklo5ffjtpepn1)   |
+| 08/30 | [Relational 1](./notes/2021-08-30.md)         |                                   |                                       | 7DB - Relational      | [1](https://montana.box.com/s/kdfjc3yegab7g790snvklo5ffjtpepn1)   |
 
 ### Sept
 
 | Date  | Description                                   | Assigned                          | Due                                   | Recommended Reading   | Video                                                             |
 |-------|-----------------------------------------------|-----------------------------------|---------------------------------------|-----------------------|-------------------------------------------------------------------|
-| 09/01 | [Relational 2](./notes/2021-09-01.md)         |                                   |                                       |                       |                                                                   |
-| 09/03 | [Relational 3](./notes/2021-09-03.md)         |                                   |                                       |                       |                                                                   |
+| 09/01 | [Relational 2](./notes/2021-08-30.md)         |                                   |                                       | 7DB - Relational      |                                                                   |
+| 09/03 | [Relational 3](./notes/2021-08-30.md)         |                                   |                                       | 7DB - Relational      |                                                                   |
 |       |                                               |                                   |                                       |                       |                                                                   |
 | 09/06 | NO CLASS (LABOR DAY)                          |                                   |                                       |                       |                                                                   |
-| 09/08 | [Querying 1](./notes/2021-09-06.pdf)          |                                   |                                       |                       |                                                                   |
-| 09/10 | [Indexing](./notes/2021-09-10.pdf)            |                                   |                                       |                       | [1](https://montana.box.com/s/p53pnlk7tl4xcsmcuc0ewsop36xs127d)   |
+| 09/08 | [Querying 1](./notes/2021-09-06.pdf)          |                                   |                                       | DBSC - Ch 12          |                                                                   |
+| 09/10 | [Indexing](./notes/2021-09-10.pdf)            |                                   |                                       | DBSC - Ch 11          | [1](https://montana.box.com/s/p53pnlk7tl4xcsmcuc0ewsop36xs127d)   |
 |       |                                               |                                   |                                       |                       |                                                                   |
-| 09/13 | [Querying 2](./notes/2021-09-13.pdf)          |                                   |                                       |                       |                                                                   |
-| 09/15 | [Querying 3](./notes/2021-09-15.pdf)          |                                   |                                       |                       |                                                                   |
-| 09/17 | [Sorting](./notes/2021-09-17.pdf)             |                                   |                                       |                       |                                                                   |
+| 09/13 | [Querying 2](./notes/2021-09-13.pdf)          |                                   |                                       | DBSC - Ch 12          |                                                                   |
+| 09/15 | [Querying 3](./notes/2021-09-15.pdf)          |                                   |                                       | DBSC - Ch 12          |                                                                   |
+| 09/17 | [Sorting](./notes/2021-09-17.pdf)             |                                   |                                       | DBSC - Ch 12          |                                                                   |
 |       |                                               |                                   |                                       |                       |                                                                   |
-| 09/20 | [Joins 1](./notes/2021-09-20.pdf)             |                                   |                                       |                       |                                                                   |
-| 09/22 | [Joins 2](./notes/2021-09-22.pdf)             |                                   |                                       |                       |                                                                   |
-| 09/24 | [Joins 3](./notes/2021-09-24.pdf)             |                                   |                                       |                       |                                                                   |
+| 09/20 | [Joins 1](./notes/2021-09-20.pdf)             |                                   |                                       | DBSC - Ch 12          |                                                                   |
+| 09/22 | [Joins 2](./notes/2021-09-22.pdf)             |                                   |                                       | DBSC - Ch 12          |                                                                   |
+| 09/24 | [Joins 3](./notes/2021-09-24.pdf)             |                                   |                                       | DBSC - Ch 12          |                                                                   |
 |       |                                               |                                   |                                       |                       |                                                                   |
-| 09/27 | Column store                                  |                                   |                                       |                       |                                                                   |
-| 09/29 |                                               |                                   |                                       |                       |                                                                   |
+| 09/27 |  Column 1                                     | [hw01](./hw/01.md)                |                                       | 7DB - Column          |                                                                   |
+| 09/29 |  **CLASS CANCELED**                           |                                   |                                       |                       |                                                                   |
 
 ### Oct
 
 | Date  | Description                                   | Assigned                          | Due                                   | Recommended Reading   | Video                                                             |
 |-------|-----------------------------------------------|-----------------------------------|---------------------------------------|-----------------------|-------------------------------------------------------------------|
-| 10/01 |                                               |                                   |                                       |                       |                                                                   |
+| 10/01 |  CAP Theorem w/ Prof Wittie                   |                                   |                                       |                       |                                                                   |
 |       |                                               |                                   |                                       |                       |                                                                   |
-| 10/04 |                                               |                                   |                                       |                       |                                                                   |
+| 10/04 |  Column 2                                     |                                   |                                       | 7DB - Column          |                                                                   |
 | 10/06 |                                               |                                   |                                       |                       |                                                                   |
 | 10/08 |                                               |                                   |                                       |                       |                                                                   |
 |       |                                               |                                   |                                       |                       |                                                                   |
-| 10/11 |                                               |                                   |                                       |                       |                                                                   |
+| 10/11 |                                               |                                   | [hw01](./hw/01.md)                    |                       |                                                                   |
 | 10/13 |                                               |                                   |                                       |                       |                                                                   |
 | 10/15 |                                               |                                   |                                       |                       |                                                                   |
 |       |                                               |                                   |                                       |                       |                                                                   |
