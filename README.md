@@ -22,7 +22,9 @@ David L. Millman, Ph.D.
 
 **Email**: david.millman@montana.edu
 
-**Office hours**: TBD
+**Office hours**: See my [calendly](https://calendly.com/dmillman) for
+availability.  Unless discussed otherwise, office hours will be on
+[webex](https://bit.ly/webex-with-dave).
 
 **Office**: Barnard Hall 359
 
