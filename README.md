@@ -122,7 +122,7 @@ in class.
 
 | Date  | Description                                   | Assigned                          | Due                                   | Recommended Reading   | Video                                                             |
 |-------|-----------------------------------------------|-----------------------------------|---------------------------------------|-----------------------|-------------------------------------------------------------------|
-| 10/01 |  CAP Theorem w/ Prof Wittie                   |                                   |                                       |                       |                                                                   |
+| 10/01 | [CAP w/ Prof Wittie](./notes/2021-10-11.pdf)  |                                   |                                       |                       |                                                                   |
 |       |                                               |                                   |                                       |                       |                                                                   |
 | 10/04 | [Column 2](./notes/2021-10-04.md)             |                                   |                                       | 7DB - Column          | [1](https://montana.box.com/s/hdhvap9z8dljhtnn6ciz9xjcllt6qw9g)   |
 | 10/06 | [Column 3](./notes/2021-10-06.md)             |                                   |                                       | 7DB - Column          | [1](https://montana.box.com/s/6e51albdx1o6aja7qm3ueuspcld1y04j)   |
