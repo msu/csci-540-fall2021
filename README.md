@@ -145,7 +145,7 @@ in class.
 
 | Date  | Description                                   | Assigned                          | Due                                   | Recommended Reading   | Video                                                             |
 |-------|-----------------------------------------------|-----------------------------------|---------------------------------------|-----------------------|-------------------------------------------------------------------|
-| 11/01 |                                               |                                   |                                       |                       |                                                                   |
+| 11/01 |                                               |                                   | [present](./hw/present.md)            |                       |                                                                   |
 | 11/03 |                                               |                                   |                                       |                       |                                                                   |
 | 11/05 |                                               |                                   |                                       |                       |                                                                   |
 |       |                                               |                                   |                                       |                       |                                                                   |
@@ -153,8 +153,8 @@ in class.
 | 11/10 |                                               |                                   |                                       |                       |                                                                   |
 | 11/12 |                                               |                                   |                                       |                       |                                                                   |
 |       |                                               |                                   |                                       |                       |                                                                   |
-| 11/15 | Student Presentations                         |                                   |                                       |                       |                                                                   |
-| 11/17 |                                               |                                   |                                       |                       |                                                                   |
+| 11/15 |  Exam (tentative)                             |                                   |                                       |                       |                                                                   |
+| 11/17 |  Student Presentations Start (tentative)      |                                   |                                       |                       |                                                                   |
 | 11/19 |                                               |                                   |                                       |                       |                                                                   |
 |       |                                               |                                   |                                       |                       |                                                                   |
 | 11/22 | NO CLASS (THANKSGIVING)                       |                                   |                                       |                       |                                                                   |
@@ -170,9 +170,9 @@ in class.
 | 12/01 |                                               |                                   |                                       |                       |                                                                   |
 | 12/03 |                                               |                                   |                                       |                       |                                                                   |
 |       |                                               |                                   |                                       |                       |                                                                   |
-| 11/06 | Final Presentations                           |                                   |                                       |                       |                                                                   |
-| 11/08 | Final Presentations                           |                                   |                                       |                       |                                                                   |
-| 10/10 | Final Presentations                           |                                   |                                       |                       |                                                                   |
+| 12/06 | Final Presentations                           |                                   |                                       |                       |                                                                   |
+| 12/08 | Final Presentations                           |                                   |                                       |                       |                                                                   |
+| 12/10 | Final Presentations                           |                                   |                                       |                       |                                                                   |
 
 ### Potential Upcoming Topics:
 
