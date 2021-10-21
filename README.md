@@ -132,13 +132,13 @@ in class.
 | 10/13 | [WAL 1](./notes/2021-10-13.pdf)               | [hw02](./hw/02.md)                |                                       | DBSC - Ch 16          |                                                                   |
 | 10/15 | [WAL 2](./notes/2021-10-13.pdf)               |                                   |                                       | DBSC - Ch 16          |                                                                   |
 |       |                                               |                                   |                                       |                       |                                                                   |
-| 10/18 | [Document 1](./notes/2021-10-18.md)           |                                   |                                       |                       |                                                                   |
-| 10/20 | [Document 2](./notes/2021-10-20.md)           |                                   | [hw02](./hw/02.md)                    |                       |                                                                   |
-| 10/22 |                                               |  hw03                             |                                       |                       |                                                                   |
+| 10/18 | [Document 1](./notes/2021-10-18.md)           |                                   |                                       | 7DB - Document        |                                                                   |
+| 10/20 | [Document 2](./notes/2021-10-20.md)           |                                   | [hw02](./hw/02.md)                    | 7DB - Document        |                                                                   |
+| 10/22 | [Document 3](./hw/03.md)                      | [hw03](./hw/03.md)                |                                       | 7DB - Document        |                                                                   |
 |       |                                               |                                   |                                       |                       |                                                                   |
-| 10/25 |                                               |                                   |                                       |                       |                                                                   |
+| 10/25 |  Graph                                        |                                   |                                       | 7DB - Graph           |                                                                   |
 | 10/27 |                                               |                                   |                                       |                       |                                                                   |
-| 10/29 |                                               |                                   |  hw03                                 |                       |                                                                   |
+| 10/29 |                                               |                                   | [hw03](./hw/03.md)                    |                       |                                                                   |
 
 
 ### Nov
@@ -176,11 +176,6 @@ in class.
 
 ### Potential Upcoming Topics:
 
-
-
-* Relational
-* Column store
-* Document store
 * Graph store
 * Data structure store
 * Processing Large Datasets / Approximating
