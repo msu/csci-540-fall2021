@@ -137,8 +137,8 @@ in class.
 | 10/22 | [Document 3](./hw/03.md)                      | [hw03](./hw/03.md)                |                                       | 7DB - Document        |                                                                   |
 |       |                                               |                                   |                                       |                       |                                                                   |
 | 10/25 | [Graph 1](./notes/2021-10-25.md)              |                                   |                                       | 7DB - Graph           |                                                                   |
-| 10/27 | [Graph 2](./notes/2021-10-27.md)              |                                   |                                       |                       |                                                                   |
-| 10/29 |                                               |                                   | [hw03](./hw/03.md)                    |                       |                                                                   |
+| 10/27 | [Graph 2](./notes/2021-10-27.md)              |                                   |                                       | 7DB - Graph           |                                                                   |
+| 10/29 | [Graph 3](./notes/2021-10-29.md)              |                                   | [hw03](./hw/03.md)                    | 7DB - Graph           |                                                                   |
 
 
 ### Nov
