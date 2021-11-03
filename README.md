@@ -170,7 +170,7 @@ in class.
 | 12/01 |                                               |                                   |                                       |                       |                                                                   |
 | 12/03 |                                               |                                   |                                       |                       |                                                                   |
 |       |                                               |                                   |                                       |                       |                                                                   |
-| 12/06 | Final Presentations                           |                                   |                                       |                       |                                                                   |
+| 12/06 |                                               |                                   |                                       |                       |                                                                   |
 | 12/08 | Final Presentations                           |                                   |                                       |                       |                                                                   |
 | 12/10 | Final Presentations                           |                                   |                                       |                       |                                                                   |
 

@@ -66,7 +66,14 @@ TBD
 
 | Date  | Topic                                     | Group                             |
 |-------|-------------------------------------------|-----------------------------------|
-
+| 11/17 | Encytption                                | Susan & Reese                     |
+| 11/19 | Blockchain                                | Ryan, Michael, Samuel             |
+|       |                                           |                                   |
+| 11/29 | Polyglot system                           | Ibrahim                           |
+| 12/01 | Bloom filters                             | Heather                           |
+| 12/03 | GPU Dbs                                   | Rishi & Wes                       |
+|       |                                           |                                   |
+| 12/06 | Steaming                                  | Ben, Dalton, & Logan              |
 
 ## Deliverables
 
