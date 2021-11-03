@@ -146,41 +146,33 @@ in class.
 | Date  | Description                                   | Assigned                          | Due                                   | Recommended Reading   | Video                                                             |
 |-------|-----------------------------------------------|-----------------------------------|---------------------------------------|-----------------------|-------------------------------------------------------------------|
 | 11/01 | [Redis 1](./notes/2021-11-01.md)              | [hw04](./hw/04.md)                | [present](./hw/present.md)            |                       |                                                                   |
-| 11/03 |                                               |                                   |                                       |                       |                                                                   |
-| 11/05 |                                               |                                   | [hw04](./hw/04.md)                    |                       |                                                                   |
+| 11/03 | [Redis 2](./notes/2021-11-03.md)              |                                   |                                       |                       |                                                                   |
+| 11/05 |  Map Reduce                                   |                                   | [hw04](./hw/04.md)                    |                       |                                                                   |
 |       |                                               |                                   |                                       |                       |                                                                   |
-| 11/08 |                                               |                                   |                                       |                       |                                                                   |
-| 11/10 |                                               |                                   |                                       |                       |                                                                   |
-| 11/12 |                                               |                                   |                                       |                       |                                                                   |
+| 11/08 |  Map Reduce                                   |                                   |                                       |                       |                                                                   |
+| 11/10 |  Hashing                                      |                                   |                                       |                       |                                                                   |
+| 11/12 |  LSH                                          |                                   |                                       |                       |                                                                   |
 |       |                                               |                                   |                                       |                       |                                                                   |
-| 11/15 |  Exam (tentative)                             |                                   |                                       |                       |                                                                   |
-| 11/17 |  Student Presentations Start (tentative)      |                                   |                                       |                       |                                                                   |
-| 11/19 |                                               |                                   |                                       |                       |                                                                   |
+| 11/15 |  Exam                                         |                                   |                                       |                       |                                                                   |
+| 11/17 |  Student Presentation                         |                                   |                                       |                       |                                                                   |
+| 11/19 |  Student Presentation                         |                                   |                                       |                       |                                                                   |
 |       |                                               |                                   |                                       |                       |                                                                   |
 | 11/22 | NO CLASS (THANKSGIVING)                       |                                   |                                       |                       |                                                                   |
 | 11/24 | NO CLASS (THANKSGIVING)                       |                                   |                                       |                       |                                                                   |
 | 11/26 | NO CLASS (THANKSGIVING)                       |                                   |                                       |                       |                                                                   |
 |       |                                               |                                   |                                       |                       |                                                                   |
-| 11/29 |                                               |                                   |                                       |                       |                                                                   |
+| 11/29 |  Student Presentation                         |                                   |                                       |                       |                                                                   |
 
 ### Dec
 
 | Date  | Description                                   | Assigned                          | Due                                   | Recommended Reading   | Video                                                             |
 |-------|-----------------------------------------------|-----------------------------------|---------------------------------------|-----------------------|===================================================================|
-| 12/01 |                                               |                                   |                                       |                       |                                                                   |
-| 12/03 |                                               |                                   |                                       |                       |                                                                   |
-|       |                                               |                                   |                                       |                       |                                                                   |
+| 12/01 |  Student Presentation                         |                                   |                                       |                       |                                                                   |
+| 12/03 |  Student Presentation                         |                                   |                                       |                       |                                                                   |
+|       |  Student Presentation                         |                                   |                                       |                       |                                                                   |
 | 12/06 |                                               |                                   |                                       |                       |                                                                   |
 | 12/08 | Final Presentations                           |                                   |                                       |                       |                                                                   |
 | 12/10 | Final Presentations                           |                                   |                                       |                       |                                                                   |
-
-### Potential Upcoming Topics:
-
-* Graph store
-* Data structure store
-* Processing Large Datasets / Approximating
-* Journalling/Write ahead logging
-* Compression
 
 ## Evaluation
 
