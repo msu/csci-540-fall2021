@@ -6,7 +6,8 @@ import mapper_reducer
 
 
 def reduce_it(emit, key, vals):
-    pass
+    emit(key, len(vals))
+
 
 
 mr = mapper_reducer.MapperReducer()
