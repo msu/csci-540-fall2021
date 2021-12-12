@@ -153,28 +153,28 @@ in class.
 | 11/10 | [Hashing](./notes/2021-11-10.pdf)             |                                   |                                       |                       |                                                                   |
 | 11/12 | [LSH](./notes/2021-11-12.pdf)                 |                                   | [project](./hw/proj.md)               |                       |                                                                   |
 |       |                                               |                                   |                                       |                       |                                                                   |
-| 11/15 |  Exam                                         |                                   |                                       |                       |                                                                   |
-| 11/17 |  Student Presentation                         |                                   |                                       |                       |                                                                   |
-| 11/19 |  Student Presentation                         |                                   |                                       |                       |                                                                   |
+| 11/15 | Exam                                          |                                   |                                       |                       |                                                                   |
+| 11/17 | [Encryption](./notes/2021-11-17.pdf)          |                                   |                                       |                       |                                                                   |
+| 11/19 | [Block Chain](./notes/2021-11-19.pdf)         |                                   |                                       |                       |                                                                   |
 |       |                                               |                                   |                                       |                       |                                                                   |
 | 11/22 | NO CLASS (THANKSGIVING)                       |                                   |                                       |                       |                                                                   |
 | 11/24 | NO CLASS (THANKSGIVING)                       |                                   |                                       |                       |                                                                   |
 | 11/26 | NO CLASS (THANKSGIVING)                       |                                   |                                       |                       |                                                                   |
 |       |                                               |                                   |                                       |                       |                                                                   |
-| 11/29 |  Student Presentation                         |                                   |                                       |                       |                                                                   |
+| 11/29 | [Bloom Filters]                               |                                   |                                       |                       |                                                                   |
 
 ### Dec
 
 | Date  | Description                                   | Assigned                          | Due                                   | Recommended Reading   | Video                                                             |
 |-------|-----------------------------------------------|-----------------------------------|---------------------------------------|-----------------------|-------------------------------------------------------------------|
-| 12/01 |  Student Presentation                         |                                   |                                       |                       |                                                                   |
-| 12/03 |  Student Presentation                         |                                   |                                       |                       |                                                                   |
+| 12/01 | [Polyglot System](./notes/2021-12-01.pdf)     |                                   |                                       |                       |                                                                   |
+| 12/03 | NO ClASS (DAVE SICK)                          |                                   |                                       |                       |                                                                   |
 |       |                                               |                                   |                                       |                       |                                                                   |
-| 12/06 |  Student Presentation                         |                                   |                                       |                       |                                                                   |
-| 12/08 |                                               |                                   |                                       |                       |                                                                   |
-| 12/10 |                                               |                                   |                                       |                       |                                                                   |
+| 12/06 | [GPU Based DBs](./notes/2021-12-06.pdf)       |                                   |                                       |                       |                                                                   |
+| 12/08 | [Kafka](./notes/2021-12-08.pdf)               |                                   |                                       |                       |                                                                   |
+| 12/10 | Project Presentations                         |                                   |                                       |                       |                                                                   |
 |       |                                               |                                   |                                       |                       |                                                                   |
-| 12/15 | Final Presentations                           |                                   |                                       |                       |                                                                   |
+| 12/15 | Project Presentations                         |                                   |                                       |                       |                                                                   |
 
 ## Evaluation
 
