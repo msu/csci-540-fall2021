@@ -161,7 +161,7 @@ in class.
 | 11/24 | NO CLASS (THANKSGIVING)                       |                                   |                                       |                       |                                                                   |
 | 11/26 | NO CLASS (THANKSGIVING)                       |                                   |                                       |                       |                                                                   |
 |       |                                               |                                   |                                       |                       |                                                                   |
-| 11/29 | [Bloom Filters]                               |                                   |                                       |                       |                                                                   |
+| 11/29 | [Bloom Filters](./notes/2021-11-29.pdf)       |                                   |                                       |                       |                                                                   |
 
 ### Dec
 
